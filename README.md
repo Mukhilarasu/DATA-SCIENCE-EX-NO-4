@@ -55,8 +55,43 @@ income.csv
 <img width="641" height="447" alt="image" src="https://github.com/user-attachments/assets/68271090-8b72-403e-80dc-d757ecf41b6a" />
 
 
+<img width="406" height="331" alt="image" src="https://github.com/user-attachments/assets/72a32dc4-9fda-471f-8c52-92a64d8e30e8" />
 
 
+<img width="1232" height="497" alt="image" src="https://github.com/user-attachments/assets/b4705714-8e4e-4fb8-83d4-157cb53976a7" />
+
+
+<img width="978" height="496" alt="image" src="https://github.com/user-attachments/assets/b1e786b4-b6d1-43d0-9490-19087cf93813" />
+
+
+<img width="895" height="272" alt="image" src="https://github.com/user-attachments/assets/d810f92d-cb5b-4046-9677-68b41ceed720" />
+
+
+<img width="771" height="472" alt="image" src="https://github.com/user-attachments/assets/9f55a0d4-12c2-4b85-8200-b1ad67388237" />
+
+<img width="1217" height="514" alt="image" src="https://github.com/user-attachments/assets/d21364a7-1111-4ec8-a5a6-e8391d1abed8" />
+
+
+<img width="1226" height="462" alt="image" src="https://github.com/user-attachments/assets/795b9dbd-8cbb-4ea2-933f-dc46fc087442" />
+
+
+<img width="1050" height="589" alt="image" src="https://github.com/user-attachments/assets/85cbd45e-b8fb-4ffe-b49d-002e7f137fb5" />
+
+
+<img width="1252" height="605" alt="image" src="https://github.com/user-attachments/assets/5a21044f-a90a-46d3-b454-cd0a289a15bb" />
+
+
+<img width="1073" height="733" alt="image" src="https://github.com/user-attachments/assets/1ad2a4d6-e80d-4b64-b5dc-94d77f210b99" />
+
+<img width="888" height="249" alt="image" src="https://github.com/user-attachments/assets/7499fb94-7f01-41c7-aca7-36dc93480052" />
+
+<img width="860" height="742" alt="image" src="https://github.com/user-attachments/assets/bfe6a8d1-96a9-4288-9a78-5b6d3d45624c" />
+
+
+<img width="704" height="125" alt="image" src="https://github.com/user-attachments/assets/ce621d8c-6525-4fb3-8ddb-860f719d786d" />
+
+
+<img width="482" height="179" alt="image" src="https://github.com/user-attachments/assets/ea7cbc1f-c159-4837-9ef6-17e5baf23884" />
 
 
 
